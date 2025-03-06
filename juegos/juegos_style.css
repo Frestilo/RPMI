@@ -1,0 +1,403 @@
+.juegos,
+.juegos * {
+  box-sizing: border-box;
+}
+.juegos {
+  background: #ffffff;
+  height: 1728.84px;
+  position: relative;
+  overflow: hidden;
+}
+.t-odo-1 {
+  width: 1447.6px;
+  height: 1729.69px;
+  position: absolute;
+  left: -7.6px;
+  top: -0.84px;
+  object-fit: cover;
+  aspect-ratio: 1447.6/1729.69;
+}
+.footer {
+  width: 1440px;
+  height: 270px;
+  position: absolute;
+  left: 0px;
+  top: 1448px;
+}
+.footer2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.header {
+  width: 1448px;
+  height: 173px;
+  position: absolute;
+  left: -8px;
+  top: 8px;
+}
+.headerfondo {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.logoprincipal {
+  width: 295.01px;
+  height: 221.7px;
+  position: absolute;
+  left: 0px;
+  top: -4.22px;
+  object-fit: cover;
+  aspect-ratio: 295.01/221.7;
+}
+.boton-info {
+  width: 228.88px;
+  height: 47.72px;
+  position: absolute;
+  left: 373.3px;
+  top: 127.95px;
+}
+.boton-info-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.informaci-n {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 7.06%;
+  left: 7.06%;
+  width: 85.89%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.boton-juegos-2 {
+  width: 170.6px;
+  height: 47.72px;
+  position: absolute;
+  left: 648.63px;
+  top: 201.85px;
+}
+.botonjuegos-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.juegos2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 3.96%;
+  left: 6.44%;
+  width: 89.6%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.boton-contacto {
+  width: 193.83px;
+  height: 47.72px;
+  position: absolute;
+  left: 1243.21px;
+  top: 127.95px;
+}
+.botonredes-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.contacto {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.42%;
+  left: 5.42%;
+  width: 89.16%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.visitanuestrasredes {
+  width: 480.14px;
+  height: 182.85px;
+  position: absolute;
+  left: 103.88px;
+  top: 1534.17px;
+}
+.visitaredescuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 38.01px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.twitter {
+  width: 19.53%;
+  height: 76.17px;
+  position: absolute;
+  right: 4.31%;
+  left: 76.17%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 93.75/76.17;
+}
+.insta {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 80.3%;
+  left: 3.87%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.yt {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 56.2%;
+  left: 27.97%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.facebook {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 32.1%;
+  left: 52.07%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.visita-nuestras-redes {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.31%;
+  left: 3.52%;
+  width: 92.17%;
+  bottom: 60.28%;
+  top: 2.77%;
+  height: 36.95%;
+}
+.contacta-con-nosotros {
+  width: 556.57px;
+  height: 191.3px;
+  position: absolute;
+  left: 793.06px;
+  top: 1536.28px;
+}
+.contactanoscuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 38.01px;
+  width: 91.96%;
+  height: 94.68%;
+  position: absolute;
+  right: 4.02%;
+  left: 4.02%;
+  bottom: 5.32%;
+  top: 0%;
+}
+.contacta-con-nosotros2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 59.49%;
+  height: 40.51%;
+}
+.galaga-1-1 {
+  width: 112.13px;
+  height: 395.62px;
+  position: absolute;
+  left: 492.3px;
+  top: 10.98px;
+  transform-origin: 0 0;
+  transform: rotate(89.341deg) scale(1, 1);
+  object-fit: cover;
+}
+.gb-1 {
+  width: 144.58px;
+  height: 89.1px;
+  position: absolute;
+  left: 384.7px;
+  top: 24.91px;
+  object-fit: cover;
+  aspect-ratio: 144.58/89.1;
+}
+.digdug {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 70.94px;
+  top: 730.98px;
+  object-fit: cover;
+}
+.xevious {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 756.32px;
+  top: 730.98px;
+  object-fit: cover;
+}
+.mappy {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 70.94px;
+  top: 1068.39px;
+  object-fit: cover;
+}
+.galaga {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 756.32px;
+  top: 1068.39px;
+  object-fit: cover;
+}
+.pacman {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  right: 52.55%;
+  left: 4.93%;
+  bottom: 63.21%;
+  top: 20.91%;
+  object-fit: cover;
+}
+.digdugscore {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 2380.43px;
+  top: 1112.73px;
+  object-fit: cover;
+}
+.xeviousscore {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 3107.19px;
+  top: 1112.73px;
+  object-fit: cover;
+}
+.mappyscore {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 2380.43px;
+  top: 1536.28px;
+  object-fit: cover;
+}
+.pacmanrecord {
+  background: var(--score, undefined);
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 2380.43px;
+  top: 659.61px;
+  object-fit: cover;
+}
+.galagarecord {
+  border-radius: 38.01px;
+  width: 612.32px;
+  height: 274.49px;
+  position: absolute;
+  left: 3107.19px;
+  top: 1536.28px;
+  object-fit: cover;
+}
+.bosconian {
+  border-radius: 2.11px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 0.42px;
+  width: 629.21px;
+  height: 306.58px;
+  position: absolute;
+  left: 747.87px;
+  top: 353.03px;
+  overflow: hidden;
+}
+.property-1-default {
+  width: 612.32px;
+  height: 274.49px;
+  position: relative;
+}
+.bosconian2 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  border-radius: 38.01px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}

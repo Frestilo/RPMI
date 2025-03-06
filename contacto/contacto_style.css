@@ -1,0 +1,436 @@
+.contacto,
+.contacto * {
+  box-sizing: border-box;
+}
+.contacto {
+  background: #ffffff;
+  height: 1728.84px;
+  position: relative;
+  overflow: hidden;
+}
+.t-odo-1 {
+  width: 1447.6px;
+  height: 1729.69px;
+  position: absolute;
+  left: -7.6px;
+  top: -0.84px;
+  object-fit: cover;
+  aspect-ratio: 1447.6/1729.69;
+}
+.footer {
+  width: 1440px;
+  height: 270px;
+  position: absolute;
+  left: 0px;
+  top: 1448px;
+}
+.footer2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.header {
+  width: 1448px;
+  height: 173px;
+  position: absolute;
+  left: -8px;
+  top: 8px;
+}
+.headerfondo {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.logoprincipal {
+  width: 295.01px;
+  height: 221.7px;
+  position: absolute;
+  left: 0px;
+  top: -4.22px;
+  object-fit: cover;
+  aspect-ratio: 295.01/221.7;
+}
+.boton-info {
+  width: 228.88px;
+  height: 47.72px;
+  position: absolute;
+  left: 373.3px;
+  top: 127.95px;
+}
+.boton-info-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.informaci-n {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  right: 7.06%;
+  left: 7.06%;
+  width: 85.89%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.boton-juegos {
+  width: 170.6px;
+  height: 47.72px;
+  position: absolute;
+  left: 648.63px;
+  top: 127.95px;
+}
+.botonjuegos-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.juegos {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 3.96%;
+  left: 6.44%;
+  width: 89.6%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.boton-contacto-2 {
+  width: 193.83px;
+  height: 47.72px;
+  position: absolute;
+  left: 1243.21px;
+  top: 201.85px;
+}
+.botonredes-cuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12.67px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.contacto2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 5.42%;
+  left: 5.42%;
+  width: 89.16%;
+  bottom: 17.7%;
+  top: 0%;
+  height: 82.3%;
+}
+.visitanuestrasredes {
+  width: 480.14px;
+  height: 182.85px;
+  position: absolute;
+  left: 103.88px;
+  top: 1534.17px;
+}
+.visitaredescuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 38.01px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.twitter {
+  width: 19.53%;
+  height: 76.17px;
+  position: absolute;
+  right: 4.31%;
+  left: 76.17%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 93.75/76.17;
+}
+.insta {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 80.3%;
+  left: 3.87%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.yt {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 56.2%;
+  left: 27.97%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.facebook {
+  width: 15.83%;
+  height: 76.01px;
+  position: absolute;
+  right: 32.1%;
+  left: 52.07%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.visita-nuestras-redes {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.31%;
+  left: 3.52%;
+  width: 92.17%;
+  bottom: 60.28%;
+  top: 2.77%;
+  height: 36.95%;
+}
+.contacta-con-nosotros {
+  width: 556.57px;
+  height: 191.3px;
+  position: absolute;
+  left: 793.06px;
+  top: 1536.28px;
+}
+.contactanoscuadrado {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 38.01px;
+  width: 91.96%;
+  height: 94.68%;
+  position: absolute;
+  right: 4.02%;
+  left: 4.02%;
+  bottom: 5.32%;
+  top: 0%;
+}
+.contacta-con-nosotros2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 59.49%;
+  height: 40.51%;
+}
+.galaga-1-1 {
+  width: 112.13px;
+  height: 395.62px;
+  position: absolute;
+  left: 492.3px;
+  top: 10.98px;
+  transform-origin: 0 0;
+  transform: rotate(89.341deg) scale(1, 1);
+  object-fit: cover;
+}
+.gb-1 {
+  width: 144.58px;
+  height: 89.1px;
+  position: absolute;
+  left: 384.7px;
+  top: 24.91px;
+  object-fit: cover;
+  aspect-ratio: 144.58/89.1;
+}
+.tienesalgunapregunta {
+  width: 1287.98px;
+  height: 700.15px;
+  position: absolute;
+  left: 89.95px;
+  top: 579.38px;
+}
+.tienespreguntacuadrado {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 38.01px;
+  width: 95.08%;
+  height: 100%;
+  position: absolute;
+  right: 3.28%;
+  left: 1.64%;
+  bottom: 0%;
+  top: 0%;
+}
+.tienes-alguna-pregunta-contacta-con-nosotros-desde-nuestras-redes-sociales {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  right: 0%;
+  left: 1.64%;
+  width: 98.36%;
+  bottom: 70.21%;
+  top: 6.45%;
+  height: 23.34%;
+}
+.tienes-alguna-pregunta-contacta-con-nosotros-desde-nuestras-redes-sociales-span {
+  color: #000000;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 54.05278396606445px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.tienes-alguna-pregunta-contacta-con-nosotros-desde-nuestras-redes-sociales-span2 {
+  color: #000000;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+}
+._981-28-23-23-22 {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 52.82%;
+  left: 23.21%;
+  width: 23.97%;
+  bottom: 10.25%;
+  top: 81.48%;
+  height: 8.26%;
+}
+.correo-atari-com {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 11.57%;
+  left: 57.38%;
+  width: 31.05%;
+  bottom: 10.25%;
+  top: 81.48%;
+  height: 8.26%;
+}
+.tambi-n-puedes-contactar-directamente-con-nuestro-equipo {
+  color: #000000;
+  text-align: center;
+  font-family: "Jersey10-Regular", sans-serif;
+  font-size: 42.228736877441406px;
+  font-weight: 400;
+  position: absolute;
+  right: 1.64%;
+  left: 0%;
+  width: 98.36%;
+  bottom: 24.85%;
+  top: 67.49%;
+  height: 7.66%;
+}
+.visitanuestrasredes2 {
+  width: 56.49%;
+  height: 26.12%;
+  position: absolute;
+  right: 20.3%;
+  left: 23.21%;
+  bottom: 44.09%;
+  top: 29.79%;
+}
+.twitter2 {
+  width: 19.53%;
+  height: 115.43px;
+  position: absolute;
+  right: 4.31%;
+  left: 76.17%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 142.06/115.43;
+}
+.insta2 {
+  width: 15.83%;
+  height: 115.19px;
+  position: absolute;
+  right: 80.3%;
+  left: 3.87%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.yt2 {
+  width: 15.83%;
+  height: 115.19px;
+  position: absolute;
+  right: 56.2%;
+  left: 27.97%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.facebook2 {
+  width: 15.83%;
+  height: 115.19px;
+  position: absolute;
+  right: 32.1%;
+  left: 52.07%;
+  top: 81.08px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.mail {
+  width: 6.56%;
+  height: 84.46px;
+  position: absolute;
+  right: 42.62%;
+  left: 50.82%;
+  top: 557.42px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.phone {
+  width: 6.56%;
+  height: 84.46px;
+  position: absolute;
+  right: 76.79%;
+  left: 16.66%;
+  top: 557.42px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
